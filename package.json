@@ -1,0 +1,22 @@
+{
+  "name": "noisecancellerbot",
+  "version": "1.0.0",
+  "description": "Discord Bot which kicks someone when he makes to much noise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YmtKudasai/NoiseCancellerBot.git"
+  },
+  "author": "Yacine Oulié",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YmtKudasai/NoiseCancellerBot/issues"
+  },
+  "homepage": "https://github.com/YmtKudasai/NoiseCancellerBot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
