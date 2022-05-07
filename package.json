@@ -1,0 +1,22 @@
+{
+  "name": "noisecancellerbot",
+  "version": "1.0.0",
+  "description": "Bot Discord qui exclue à partir d'un certain taux de décibel / Discord Bot which kicks someone when he makes too much noise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YmtKudasai/NoiseCancellerBot.git"
+  },
+  "author": "Kashif TASNEEM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YmtKudasai/NoiseCancellerBot/issues"
+  },
+  "homepage": "https://github.com/YmtKudasai/NoiseCancellerBot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
